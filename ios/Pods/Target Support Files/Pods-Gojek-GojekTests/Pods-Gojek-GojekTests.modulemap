@@ -1,0 +1,6 @@
+module Pods_Gojek_GojekTests {
+  umbrella header "Pods-Gojek-GojekTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
